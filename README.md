@@ -25,13 +25,13 @@ I built this project to practice Java OOP concepts and GUI development. It also 
 
 ## Project Structure
 
-ATM-GUI/
-└── src/
-└── com/example/atm/
-├── Main.java
-├── ATMGUI.java
-├── Account.java
-└── Transaction.java
+- ATM-GUI/
+  - src/
+  -  com/example/atm/
+  -   Main.java
+  -   ATMGUI.java
+  -   Account.java
+  -   Transaction.java
 
 ## How to Run the Project
 
