@@ -33,28 +33,16 @@ ATM-GUI/
 ├── Account.java
 └── Transaction.java
 
-css
-Copy code
-
 ## How to Run the Project
 
 1. Go to the src folder  
 cd ATM-GUI/src
 
-css
-Copy code
-
 2. Compile all Java files  
 javac com/example/atm/*.java
 
-markdown
-Copy code
-
 3. Run the project  
 java com.example.atm.Main
-
-markdown
-Copy code
 
 That’s it — the ATM GUI window will open.
 
@@ -71,5 +59,3 @@ That’s it — the ATM GUI window will open.
 - Designing small OOP models  
 - Managing multiple screens using CardLayout  
 - Input validation and exception handling  
-
-**Author:** Hithashree K V
